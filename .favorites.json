@@ -1,0 +1,91 @@
+[
+    {
+        "type": "Group",
+        "name": "useful",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "e5nqVXlg9tRFjTai"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\task.cpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\task.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "q1dnrPtY5e2s7OwU"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\commonuse.hpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\commonuse.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "7XiFjD8dkCQ201vV"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\commuse.cpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\commuse.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Sm2xybYXwodrzIkt"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\motor.hpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\motor.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "8irJta2cugyxMSDE"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\usefun.hpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\usefun.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "rvk6RZOawH5fmXzu"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\Pros.hpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\Pros.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4ARJTrt9qF5eV2D7"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\PID.cpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\PID.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "keljRLSQmChgDnUB"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\PID.hpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\PID.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6zTPeBUI0byMDolL"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\Pros.cpp",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\xuigouchen\\Documents\\PlatformIO\\Projects\\ESP32-S3\\src\\Pros.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CFGKApYxhnHkrmV2"
+    }
+]
